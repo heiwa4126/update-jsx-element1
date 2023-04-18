@@ -1,7 +1,7 @@
 import React from "react";
 
-const img1 = "/150x150.png";
-const img2 = "/150x150-2.png";
+const img1 = "150x150.png";
+const img2 = "150x150-2.png";
 
 function ImageTest1() {
   return (
